@@ -9,3 +9,4 @@ print("\ntoq:",   end=" ")
 if a%2==1: print(a,   end=" ")
 if b%2==1: print(b,                 end=" ")
 if c%2==1: print(c,   end=" ")
+ZXAZXa
